@@ -96,6 +96,6 @@ public class MybatisTest {
         map.put("ids",ids);
         List<Blog> blogs = mapper.queryBlogForeach(map);
         System.out.println(blogs.toString());
-
+    //1
     }
 }
