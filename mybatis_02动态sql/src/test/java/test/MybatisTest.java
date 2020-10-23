@@ -1,12 +1,12 @@
-package com.wwy.test;
+package test;
 
 
 import com.wwy.mapper.StudentMapper;
 import com.wwy.mapper.TeacherMapper;
+import com.wwy.mapper.UserMapper;
 import com.wwy.pojo.Student;
 import com.wwy.pojo.Teacher;
 import com.wwy.pojo.User;
-import com.wwy.mapper.UserMapper;
 import com.wwy.util.MybatisUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
@@ -93,5 +93,7 @@ public class MybatisTest {
         System.out.println(teacher.getName());
         System.out.println(teacher.getStudents());
     }
+
+
 
 }

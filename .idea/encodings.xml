@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/mybatis_01/src/main/java/com/wwy/pojo/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mybatis_01/src/main/java/com/wwy/pojo/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mybatis_01/src/main/java/com/wwy/test/MybatisTest.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
